@@ -1,0 +1,28 @@
+Répartition :
+Théo :	Controleurs (Front & User & Admin)
+	Validation
+	Classes
+	Gateways
+	Modèles
+	Autoload
+	Config
+	Pagination
+
+Cyril : Vues (php/css/javascript)
+	Gestion des cookies / Variables de sessions
+	Gateways article(quelques fonctions)
+	AdminControl (quelques fonctions)
+	Modele commentaire
+	Pagination
+	
+	
+	
+Administrateur :
+Identifiant : theo Mdp : 123
+Identifiant : cyril Mdp : 456
+
+
+En plus nous avons mis du Javascript pour vérifier que les champs ne soit pas vides
+ainsi que du BBcode (doit écrire le code à la main(ex : [b]Texte[/b]))
+
+Fichier à lancer : index.php
